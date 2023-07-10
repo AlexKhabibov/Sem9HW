@@ -1,0 +1,15 @@
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 9. Рекурсия. Семинар 9/Sem9HW/task66/bin/Debug/net7.0/task66
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 9. Рекурсия. Семинар 9/Sem9HW/task66/bin/Debug/net7.0/task66.deps.json
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 9. Рекурсия. Семинар 9/Sem9HW/task66/bin/Debug/net7.0/task66.runtimeconfig.json
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 9. Рекурсия. Семинар 9/Sem9HW/task66/bin/Debug/net7.0/task66.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 9. Рекурсия. Семинар 9/Sem9HW/task66/bin/Debug/net7.0/task66.pdb
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 9. Рекурсия. Семинар 9/Sem9HW/task66/obj/Debug/net7.0/task66.csproj.AssemblyReference.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 9. Рекурсия. Семинар 9/Sem9HW/task66/obj/Debug/net7.0/task66.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 9. Рекурсия. Семинар 9/Sem9HW/task66/obj/Debug/net7.0/task66.AssemblyInfoInputs.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 9. Рекурсия. Семинар 9/Sem9HW/task66/obj/Debug/net7.0/task66.AssemblyInfo.cs
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 9. Рекурсия. Семинар 9/Sem9HW/task66/obj/Debug/net7.0/task66.csproj.CoreCompileInputs.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 9. Рекурсия. Семинар 9/Sem9HW/task66/obj/Debug/net7.0/task66.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 9. Рекурсия. Семинар 9/Sem9HW/task66/obj/Debug/net7.0/refint/task66.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 9. Рекурсия. Семинар 9/Sem9HW/task66/obj/Debug/net7.0/task66.pdb
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 9. Рекурсия. Семинар 9/Sem9HW/task66/obj/Debug/net7.0/task66.genruntimeconfig.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 9. Рекурсия. Семинар 9/Sem9HW/task66/obj/Debug/net7.0/ref/task66.dll
